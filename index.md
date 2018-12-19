@@ -1,4 +1,5 @@
 ---
+layout: post
 description: 简历
 ---
 
