@@ -1,6 +1,5 @@
 ---
-layout: post
-description: 简历
+title: 简历
 ---
 
 
